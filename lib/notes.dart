@@ -29,7 +29,7 @@ class _NotesPageState extends State<NotesPage> {
         ),
         alignment: Alignment.center,
         child: Text(
-          'Challenge',
+          'Derek Galindo 0494',
           style: TextStyle(
             fontSize: 32,
             color: Color(0xff550043),
